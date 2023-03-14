@@ -19,9 +19,10 @@ MacOS Monterey 12.x.x
 * GPU acceleration
 * CPU detected correctly
 * USB works properly
-* Almost everything else works perfectly.
+* Proper SSDTs generated
+* Almost everything else works perfectly
 
-#Issues:
+# Known issues:
 
 * USB 2.0 devices can't work on the front panel. Only USB 3.x does work.
 * Will update if I find any fix.
