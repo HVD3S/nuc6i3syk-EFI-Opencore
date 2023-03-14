@@ -2,9 +2,9 @@
 
 https://ark.intel.com/content/www/us/en/ark/products/89186/intel-nuc-kit-nuc6i3syk.html
 
-* CPU: i3-6100U
+* CPU: Intel Core i3-6100U
 * Mem: 4-32GB DDR4@2133MHz
-* GPU: iGPU HD520 with HDMI 1.4 / DP 1.2
+* GPU: ingrated Intel HD 520
 * Ethernet: Intel I219-V
 * Wireless: Intel AC 8260
 * Disk: nvme SATA
