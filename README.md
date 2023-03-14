@@ -16,13 +16,7 @@ MacOS Monterey 12.x.x
 
 # What's working:
 
-* GPU acceleration
-* CPU detected correctly
-* Wifi
-* Bluetooth
-* USB works properly
-* Proper SSDTs generated
-* Almost everything else works perfectly
+* EVERYTHING ! *
 
 # Known issues:
 
