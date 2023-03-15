@@ -27,6 +27,6 @@ NONE
 Things to disable in BIOS: USB charging mode - USB legacy mode - Boot legacy mode - fastboot - intel platform trust technology - secure boot
 
 
-Make sure to generate a New SMBIOS for Macbook Pro 13,3 or iMac17,1 just to avoid serial number conflicts with other users who copied this EFI. Note that other non-skylake SMBIOS won't work.
+Make sure to generate a New SMBIOS for Macbook Pro 13,3 or iMac17,1 just to avoid serial number conflicts with other users who copied this EFI. Note that other non-skylake SMBIOS won't work. Also note that verbose (-v) is disabled from bootargs for the sake of esthetics since everything is working now.
 
 
